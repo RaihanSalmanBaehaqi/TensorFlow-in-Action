@@ -1,3 +1,7 @@
+**AUTHOR:**
+**1. RAIHAN SALMAN BAEHAQI (1103220180)**
+**2. JAKA KELANA WIJAYA ()**
+
 # TensorFlow in Action
 
 ![cover](./cover.jpg)
