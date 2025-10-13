@@ -1,6 +1,6 @@
 # TensorFlow in Action
 
-![cover](./cover.png)
+![cover](./cover.jpg)
 
 ## Overview
 This repository contains code reproductions and theoretical explanations from the *TensorFlow in Action* book by Thushan Ganegedara. The purpose of this project is to deepen the understanding of core Machine Learning concepts through practical implementation in TensorFlow. Each chapter of the book is represented as a Jupyter notebook containing both code and accompanying theoretical explanations.
